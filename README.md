@@ -6,6 +6,7 @@ Um clone da página de pesquisa do Google, recriado como um exercício prático 
 HTML5: Estrutura semântica da página.
 CSS3: Estilização responsiva e design.
 
+
 📂 Estrutura do Projeto
 plaintext
 Copiar código
@@ -30,5 +31,7 @@ bash
 Copiar código
 cd Clone-Google-Search
 Abra o arquivo index.html no seu navegador.
+
+
 🤝 Contribuições
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
